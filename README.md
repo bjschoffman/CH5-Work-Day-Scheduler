@@ -13,7 +13,7 @@ To launch, go to: [https://bjschoffman.github.io/CH5-Work-Day-Scheduler.github.i
 Below is the fuctionality of the website:
 
     
-    ![Gif of webpage in action](/assets/Work Day Scheduler.gif)
+    ![Gif of webpage in action](/assets/WorkDayScheduler.gif)
     
 
 ## License
