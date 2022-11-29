@@ -8,12 +8,12 @@ The Work Day Scheduler was created for the busy employee to keep track of import
 
 ## Usage
 
-To launch, go to:
+To launch, go to: [https://bjschoffman.github.io/CH5-Work-Day-Scheduler.github.io/](https://bjschoffman.github.io/CH5-Work-Day-Scheduler.github.io/)
 
 Below is the fuctionality of the website:
 
     
-    ![Gif of webpage](assets/Work Day Scheduler.gif)
+    ![Gif of webpage in action](/assets/Work Day Scheduler.gif)
     
 
 ## License
