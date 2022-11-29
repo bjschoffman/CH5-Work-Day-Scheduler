@@ -12,10 +12,8 @@ To launch, go to: [https://bjschoffman.github.io/CH5-Work-Day-Scheduler.github.i
 
 Below is the fuctionality of the website:
 
+![](https://github.com/bjschoffman/CH5-Work-Day-Scheduler.github.io/blob/main/assets/WorkDayScheduler.gif)
     
-    ![](https://github.com/bjschoffman/CH5-Work-Day-Scheduler.github.io/blob/main/assets/WorkDayScheduler.gif)
-    
-
 ## License
 
 MIT License Copyright (c) 2022 bjschoffman
